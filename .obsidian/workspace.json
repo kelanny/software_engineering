@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "d63b31e9c7035374",
+    "type": "split",
+    "children": [
+      {
+        "id": "b20133791fac9314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e382fdbb7d7bc82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9aedbe024ce71a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP-IP Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f620543e3d2fe421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e93fb63e8f49c3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "browser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e24fb61d451126d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b48f996e803fea47",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1fd58864bbf3004",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3b4263323ebc11f",
+    "type": "split",
+    "children": [
+      {
+        "id": "561d1750c5a7d8f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d60bfb3f888fed16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f7d50222b7237c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0da51ad6c8f04e3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "right": {
+    "id": "2180cfb7db64e516",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe312e1312ad4102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f513ceb030e24fec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTTPS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91c8bd2503ae530d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTTPS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7349442447704551",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc4b8286eaa756d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTTPS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1fd58864bbf3004",
+  "lastOpenFiles": [
+    "server.md",
+    "HTTP Status Codes.md",
+    "HTTP Protocol.md",
+    "URL.md",
+    "images/http_response_message.png",
+    "images/http_request_message.png",
+    "browser.md",
+    "the_web_cycle.md",
+    "images/the_web_cycle.png",
+    "images/the_web_cycle - Shortcut.lnk",
+    "images/http_protocol.png",
+    "The Web.md",
+    "images/the_web_image.png",
+    "images/identifying_mac_addr.png",
+    "images",
+    "New folder",
+    "Data Transfer Over Network.md",
+    "MAC Address.md",
+    "identifying_mac_addr.png",
+    "Pasted image 20240503023951.png",
+    "IPv4 Packet.md",
+    "port.md",
+    "TCP-IP Model.md",
+    "RTP.md",
+    "OSI MODEL.md",
+    "Application Layer.md",
+    "UDP.md",
+    "TCP.md",
+    "HTTPS.md",
+    "HTTPS illustrated.md",
+    "TLS Version.md",
+    "TLS handshake.md",
+    "TCP Connection.md",
+    "certificate.md",
+    "client.md",
+    "Public Key.md",
+    "Symmetric Encryption.md",
+    "The Internet"
+  ]
+}
