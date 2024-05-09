@@ -1,0 +1,1 @@
+A vigilant gurdian tasked with monitoring and controlling all the incoming and outgoing network traffic based on predefined security rules. 
