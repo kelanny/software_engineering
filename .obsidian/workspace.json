@@ -225,8 +225,10 @@
   },
   "active": "0a4b9af61a8e4f96",
   "lastOpenFiles": [
-    "firewall.md",
+    "Transport Layer Security (TSL).md",
     "What happens when we type www.google.com.md",
+    "browser.md",
+    "firewall.md",
     "Internet Protocol (IP).md",
     "Transmission Control Protocol (TCP).md",
     "Transmission Contrl Protocol (TCP).md",
@@ -237,7 +239,6 @@
     "URL.md",
     "images/http_response_message.png",
     "images/http_request_message.png",
-    "browser.md",
     "the_web_cycle.md",
     "images/the_web_cycle.png",
     "images/the_web_cycle - Shortcut.lnk",
@@ -261,7 +262,6 @@
     "HTTPS.md",
     "HTTPS illustrated.md",
     "TLS Version.md",
-    "TLS handshake.md",
     "The Internet"
   ]
 }

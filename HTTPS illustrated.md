@@ -4,7 +4,7 @@ HTTPS is  an extension of the the [[HTTP Protocol]].
 It is a part of the protocol that helps to encrypt and secure a connection between a [[client]] and a [[server]].
 Without HTTPS, the connection between [[server]] and [[browser]] is in plain text and anyone with access to the connection can read the data sent.
 [[HTTPS]] was designed to encrypt the data sent between a sender and a receiver to make it unreadable.
-[[HTTPS]] encrypts the connection using [[TLS]].
+[[HTTPS]] encrypts the connection using [[Transport Layer Security (TSL)]].
 
 
 ### How TLS handshake works
