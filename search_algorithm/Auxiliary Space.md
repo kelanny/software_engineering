@@ -1,0 +1,1 @@
+Auxiliary space is the extra space or temporally used in an [[algorithm]]
